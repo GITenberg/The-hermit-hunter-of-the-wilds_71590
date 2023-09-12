@@ -1,0 +1,32 @@
+_repo: The-hermit-hunter-of-the-wilds_71590
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    - Gordon-Stables, W.
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+    wikipedia: https://en.wikipedia.org/wiki/William_Gordon_Stables
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71590'
+language: en
+pgterms:marc905: 20220525053739stables
+pgterms:marc906: '1889'
+pgterms:marc907: GB
+production_note: Chuck Greif, Al Haines and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aLondon :$bBlackie and Son ltd., $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The hermit hunter of the wilds
+url: http://www.gutenberg.org/ebooks/71590
